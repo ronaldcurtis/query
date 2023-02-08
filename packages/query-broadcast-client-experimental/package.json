@@ -34,7 +34,7 @@
     "build:types": "tsc --build"
   },
   "dependencies": {
-    "@tanstack/query-core": "workspace:*",
+    "@tanstack/query-core": "4.24.4",
     "broadcast-channel": "^4.14.0"
   }
 }
